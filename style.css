@@ -61,10 +61,10 @@ nav {
   right: 0;
   top: 0;
   height: 100%;
-  padding: 1.75rem;
   display: flex;
   flex-direction: column;
   gap: 2rem;
+  padding: 1.75rem;
 }
 
 .hidden {
@@ -221,6 +221,7 @@ article > img {
     justify-content: end;
     gap: 3rem;
     position: static;
+    padding: 0;
   }
 
   nav > a {
@@ -230,6 +231,10 @@ article > img {
   nav > a:hover {
     color: var(--soft-red);
     font-size: 1rem;
+  }
+
+  .gray-nav {
+    display: none !important;
   }
 }
 @media (min-width: 1050px) {
