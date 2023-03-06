@@ -35,7 +35,7 @@ Mobile Menu <br />
 ### Links
 
 - Solution URL: [https://github.com/wongstephen/frontend-mentor-news-homepage](https://github.com/wongstephen/frontend-mentor-news-homepage)
-- Live Site URL: [Live site URL](https://frontend-mentor-news-site-sw.netlify.app/)
+- Live Site URL: [https://frontend-mentor-news-site-sw.netlify.app/](https://frontend-mentor-news-site-sw.netlify.app/)
 
 ## My process
 
