@@ -30,6 +30,7 @@ body {
   padding: 1rem;
   max-width: 768px;
   margin: 0 auto;
+  background-color: var(--off-white);
 }
 
 .logo {
